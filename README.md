@@ -1,4 +1,4 @@
-# Excel-Dashboard
+# Excel Dashboard
 
 Analyzed data from various situations of people who did or did not buy bicycles. Data visualizations show the average income, customer age brackets, and customer commute of people who did or did not buy a bike.
 
